@@ -3,7 +3,11 @@
 
 *Me llamo Robert Romero Medina, naci en una isla🏖 hermosa del caribe llamada Republica Dominicana.🇩🇴❤*
 
-* ✒Gists: https://gist.github.com/robertrm0 * 
+* 👨‍💻 Web https://robertrm0.github.io/
+* Linkedin https://www.linkedin.com/in/robert-romero-medina-730a41190/
+* Twitter https://twitter.com/robertrm00
+* Instagram https://www.instagram.com/robertrm0/
+* ✒Gists: https://gist.github.com/robertrm0
 
 <!--
 **robertrm0/Robertrm0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
