@@ -27,13 +27,13 @@
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=https://robertrm0.github.io/)
+![](https://visitor-badge.glitch.me/badge?page_id=robertrm0/)
 
 <br />
 
 Me llamo Robert Romero Medina, naci en una isla🏖 hermosa del caribe llamada Republica Dominicana.🇩🇴❤ Soy Frontend Developer y Maquetador Web. Inicie en el mundo de la programacion en el año 2019 de forma autodidacta, consegui una beca en Plazi gracias a Facebook Developer Circles para formarme como Frontend Developer. 👋☄
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/xT1XGJEEqTOVq7IW4g/giphy.gif" />
   
 **Cosas mias:**
 
@@ -49,7 +49,7 @@ Me llamo Robert Romero Medina, naci en una isla🏖 hermosa del caribe llamada R
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=robertrm0&show_icons=true)
 
