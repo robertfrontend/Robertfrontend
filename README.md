@@ -1,15 +1,3 @@
-### Hola, Soy Robert Romero
-*Frontend Developer y Maquetador Web*. 👋☄
-
-*Me llamo Robert Romero Medina, naci en una isla🏖 hermosa del caribe llamada Republica Dominicana.🇩🇴❤*
-
-* 👨‍💻 Web https://robertrm0.github.io/
-* Linkedin https://www.linkedin.com/in/robert-romero-medina-730a41190/
-* Twitter 
-* Instagram 
-* ✒Gists: https://gist.github.com/robertrm0
-
-
 ### Hey 👋🏽, I'm [Robertrm0!](https://github.com/Robertrm0) 
 
 <br/>
