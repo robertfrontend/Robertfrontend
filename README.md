@@ -4,9 +4,10 @@
 <!--
 **robertrm0/Robertrm0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**
-Me llamo Robert Romero Medina, naci en una isla🏖 hermosa del caribe llamada Republica Dominicana.🇩🇴❤
-**
+**Me llamo Robert Romero Medina, naci en una isla🏖 hermosa del caribe llamada Republica Dominicana.🇩🇴❤**
+
+* ✒Gists: https://gist.github.com/robertrm0 * 
+
 
 Here are some ideas to get you started:
 
