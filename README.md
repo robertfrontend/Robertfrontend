@@ -26,8 +26,10 @@
 
 Me llamo Robert Romero Medina, naci en una isla🏖 hermosa del caribe llamada Republica Dominicana.🇩🇴❤ Soy Frontend Developer y Maquetador Web. Inicie en el mundo de la programacion en el año 2019 de forma autodidacta, consegui una beca en Plazi gracias a Facebook Developer Circles para formarme como Frontend Developer. 👋☄
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/xT1XGJEEqTOVq7IW4g/giphy.gif" />
-  
+<!--
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/xT1XGJEEqTOVq7IW4g/giphy.gif" />
+-->
+
 **Cosas mias:**
 
 - 👨🏽‍💻 Actualmente estoy desempleado pero creando proyectos todos los dias con el fin de mejorar mis habilidades.
