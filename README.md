@@ -2,6 +2,9 @@
 
 <br/>
 
+<a href="https://www.linkedin.com/in/autodidactic/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <a href="https://twitter.com/robertrm00">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
