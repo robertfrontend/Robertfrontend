@@ -2,28 +2,6 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/autodidactic/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/robertrm00">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/robert-romero-medina-730a41190/>
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/robertrm0">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/robertrm0/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<!--
-![](https://visitor-badge.glitch.me/badge?page_id=robertrm0/)
--->
-
-<br />
-
 Me llamo Robert Romero Medina, naci en una isla🏖 hermosa del caribe llamada Republica Dominicana.🇩🇴❤ Soy Frontend Developer y Maquetador Web. Inicie en el mundo de la programacion en el año 2019 de forma autodidacta, consegui una beca en Plazi gracias a Facebook Developer Circles para formarme como Frontend Developer. 👋☄
 
 <!--
