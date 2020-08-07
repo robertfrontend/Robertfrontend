@@ -35,7 +35,6 @@ Me llamo Robert Romero Medina, naci en una isla🏖 hermosa del caribe llamada R
 #### Deployment
 ![GitHub](https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat-square&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-00c0b0?style=flat-square&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=ffffff)
 
 #### OS
 ![CLI](http://img.shields.io/badge/-Windows-007ACC?style=flat-square&logo=windows&logoColor=ffffff)
