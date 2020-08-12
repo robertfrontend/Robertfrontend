@@ -11,7 +11,7 @@ Me llamo Robert Romero Medina, naci en una isla🏖 hermosa del caribe llamada R
 **Cosas mias:**
 
 - 👨🏽‍💻 Actualmente estoy desempleado pero creando proyectos todos los dias con el fin de mejorar mis habilidades.
-- 🌱 Actualmente estoy aprendiendo JavaScript Full, UI y AWS; 
+- 🌱 Actualmente estoy aprendiendo React.Js⚛
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Contactame: robert02frontend@gmail.com;
 
