@@ -8,8 +8,8 @@ Mi nombre es Robert Romero soy Frontend Developer. Actualmente resido en Republi
 
 **Cosas mias:**
 
-- 👨🏽‍💻 Actualmente estoy desempleado pero creando proyectos todos los dias con el fin de mejorar mis habilidades.
-- 🌱 Actualmente estoy aprendiendo React.Js⚛
+- 👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades.
+- 🌱 Actualmente estoy aprendiendo React.Js⚛ y Vue💚
 - 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!;
 - 📫 Contactame: robert02frontend@gmail.com;
 
