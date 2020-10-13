@@ -1,4 +1,4 @@
-### Hola 👋🏽, Soy [Robertrm0!](https://github.com/Robertrm0) 
+### Hola 👋🏽, Soy Robert Romero Medina, Frontend Developer
 
 <br/>
 
