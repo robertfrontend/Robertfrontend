@@ -2,7 +2,7 @@
 
 <br/>
 
-<p>Mi nombre es Robert Romero soy Frontend Developer. Actualmente resido en Republica Dominicana 🇩🇴</p>
+<p align="center" >Mi nombre es Robert Romero soy Frontend Developer. Actualmente resido en Republica Dominicana 🇩🇴</p>
 
 <p align="center">
 <a href="https://twitter.com/robertrm00"><img src="https://img.shields.io/twitter/follow/Robertrm00?style=social" /></a>
