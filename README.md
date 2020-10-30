@@ -12,7 +12,7 @@
 **Sobre mi:**
 
 - 👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades.
-- 🌱 Actualmente estoy aprendiendo React.Js⚛ y Vue💚
+- 🌱 Actualmente estoy aprendiendo Vue💚
 - 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!;
 - 📫 Contactame: robert02frontend@gmail.com;
 
