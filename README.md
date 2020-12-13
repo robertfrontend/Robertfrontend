@@ -11,7 +11,7 @@
 
 **Sobre mi:**
 
-- 👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades.
+- 👨🏽‍💻 apasionado por la tecnología y la innovación.
 - 🌱 Actualmente estoy aprendiendo Vue💚
 - 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!;
 - 📫 Contactame: robert02frontend@gmail.com;
