@@ -10,11 +10,12 @@
 **Sobre mi:**
 
 - 👨🏽‍💻 apasionado por la tecnología y la innovación.
-- 🌱 Actualmente estoy aprendiendo Vue💚
+- 🌱 Actualmente estoy trabajando con Vue.Js💚.
 - 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte!;
 - 📫 Contactame: robert02frontend@gmail.com;
+- 📍  Portafolio: https://robertrm0.github.io/
+- ⏹ Linkedin: https://www.linkedin.com/in/robertrm0/
 
-## 🛰 Ver [Portafolio!](https://robertrm0.github.io/) 
 
 ![Robertrm0's github stats](https://github-readme-stats.vercel.app/api?username=robertrm0&show_icons=true&theme=light)
 ![Robertrm0 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertrm0&theme=light&layout=compact)
