@@ -17,5 +17,30 @@
 - ⏹ Linkedin: https://www.linkedin.com/in/robertrm0/
 
 
+**Proyectos:**
+
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<p>App Covid-19 https://github.com/robertrm0/App-covid-19 </p>
+<p>RamdonPasswords https://github.com/robertrm0/RamdonPasswords</p>
+<p>Convertidor Peso https://github.com/robertrm0/Convertidor-DO</p>
+<p>TweetLocalsotrage https://github.com/robertrm0/TwetsLocalStorage</p>
+
+
+<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+<p>Windbnb https://github.com/robertrm0/Windnb</p>
+<p>TodoAppDevChallenge https://github.com/robertrm0/To-do-App-DevChallenges</p>
+<p>Platzi Exchanges https://github.com/robertrm0/PlatziEschange/</p>
+<p>Makeup App https://github.com/robertrm0/makeupapp</p>
+
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<p>Clima App Course https://github.com/robertrm0/appClimaReactCourse</p>
+<p>Cotizador de Seguros https://github.com/robertrm0/CotizadorAppCourse</p>
+<p>App Presupuestos https://github.com/robertrm0/appPresupuestoReactCourse</p>
+<p>App Citas https://github.com/robertrm0/appPresupuestoReactCourse</p>
+
+
+
+
+
 ![Robertrm0's github stats](https://github-readme-stats.vercel.app/api?username=robertrm0&show_icons=true&theme=light)
 ![Robertrm0 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertrm0&theme=light&layout=compact)
