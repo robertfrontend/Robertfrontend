@@ -4,7 +4,7 @@
 
 <p >
 <a href="https://twitter.com/robertfrontend"><img src="https://img.shields.io/twitter/follow/robertfrontend?style=social" /></a>
-<a href="https://github.com/Robertrm0"><img src="https://img.shields.io/github/followers/Robertrm0?label=follow&style=social" /></a>
+<a href="https://github.com/Robertfrontend"><img src="https://img.shields.io/github/followers/Robertrm0?label=follow&style=social" /></a>
 </p>
 
 **Sobre mi:**
