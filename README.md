@@ -28,3 +28,11 @@ Tecnologías: Next.Js + Supabase
 
 Link👉 https://vencalificame.vercel.app/
 
+
+Privitys
+Es una aplicación web para que los dueños de eventos puedan resivir y administrar reservaciones de sus actividades
+
+Tecnologías: Next.Js + Firebase
+
+Link👉 https://www.privitys.com/
+
