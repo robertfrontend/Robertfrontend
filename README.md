@@ -1,4 +1,4 @@
-<h3 align="start">Hola 👋🏽, Soy Robert Romero Medina, Frontend Developer</h3>
+<h3 align="start">Hola 👋, Soy Robert Romero Medina, Frontend Developer</h3>
 
 
 Soy Frontend Developer centrado en productos. 
