@@ -12,27 +12,3 @@ React.js - Next.js - Vue.js - Astro
 - Diseño UI
 Figma
 
-He creado dos productos mínimos viables (MVP) los cuales he ido trabajando mejorando su diseño y agregando funcionalidades.
-
-MenuDR
-Aplicación que ayuda a que los negocios tengan su propio menú digital. 
-
-Tecnologías: React + TypeScript, Python + FastAPI y Firebase.
-
-Link👉 https://menudr.netlify.app/
-
-VenCalificame
-Aplicación que aloja todo tipo de negocio para que estos mismos puedan compartir sus perfiles y los clientes puedan dejar calificaciones de sus productos y servicios.
-
-Tecnologías: Next.Js + Supabase
-
-Link👉 https://vencalificame.vercel.app/
-
-
-Privitys
-Es una aplicación web para que los dueños de eventos puedan resivir y administrar reservaciones de sus actividades
-
-Tecnologías: Next.Js + Firebase
-
-Link👉 https://www.privitys.com/
-
