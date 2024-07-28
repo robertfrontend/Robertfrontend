@@ -2,7 +2,7 @@
 
 
 Soy Frontend Developer centrado en productos. 
-Actualmente resido en Republica Dominicana. Tengo +2 años de experiencia laboral, he trabajado en diferentes mercados como desarrollador front-end tales como bienes raíces, medicina y de seguro.
+Actualmente resido en Republica Dominicana. Tengo +4 años de experiencia laboral, he trabajado en diferentes mercados como desarrollador front-end tales como bienes raíces, medicina y de seguro.
 
 Tecnologias:
 
