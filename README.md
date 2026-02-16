@@ -1,5 +1,5 @@
 # Hi 👋, I'm Robert Romero
-### Frontend Developer | UI/UX Enthusiast | Based in Boston, MA 🏙️
+### Frontend Developer | Based in Boston, MA 🏙️
 
 I’m a **Frontend Developer** with over **4 years of experience** building high-performance, visually engaging web solutions. I specialize in bridging the gap between complex backend logic and intuitive user interfaces.
 
