@@ -22,7 +22,7 @@ I’m a **Frontend Developer** with over **4 years of experience** building high
 
 ### 📂 Featured Projects
 
-#### 🍽️ [MenuDrapp](https://menudrapp.vercel.app/)
+#### 🍽️ [MenuDrapp](https://menudr.vercel.app/)
 **Digital Menu Solution for Restaurants**
 * **Description:** An interactive platform that allows restaurants to digitize their menus, enhancing customer experience and streamlining internal management.
 * **Key Features:** Real-time updates, QR code integration, and mobile-first responsive design.
