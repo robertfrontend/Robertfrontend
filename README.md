@@ -44,5 +44,3 @@ I’m always open to discussing new projects, creative ideas, or opportunities t
 * **Portfolio:** [robertfrontend.com](https://robertfrontend.com)
 * **Email:** [robert@robertfrontend.com]
 
----
-![Robert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertfrontend&show_icons=true&theme=radical)
