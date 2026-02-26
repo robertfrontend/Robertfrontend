@@ -22,6 +22,12 @@ I’m a **Frontend Developer** with over **4 years of experience** building high
 
 ### 📂 Featured Projects
 
+#### 🍽️ [Thiscita](https://www.thiscita.com/)
+**Your next appointment, one click away.**
+* **Description:** 
+* **Key Features:**
+* **Tech Stack:** ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
 #### 🍽️ [MenuDrapp](https://menudr.vercel.app/)
 **Digital Menu Solution for Restaurants**
 * **Description:** An interactive platform that allows restaurants to digitize their menus, enhancing customer experience and streamlining internal management.
