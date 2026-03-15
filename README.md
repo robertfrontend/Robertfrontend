@@ -1,7 +1,7 @@
 # Hi 👋, I'm Robert Romero
-### Frontend Developer | Based in Boston, MA 🏙️
+### Full Stack Developer | Based in Boston, MA 🏙️
 
-I’m a **Frontend Developer** with over **4 years of experience** building high-performance, visually engaging web solutions. I specialize in bridging the gap between complex backend logic and intuitive user interfaces.
+I’m a **Full Stack Developerr** with over **4 years of experience** building high-performance, visually engaging web solutions. I specialize in bridging the gap between complex backend logic and intuitive user interfaces.
 
 * **📍 Location:** Boston, MA
 * **🚀 Current Focus:** Building scalable SaaS solutions and digital experiences.
