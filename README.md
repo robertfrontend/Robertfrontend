@@ -1,52 +1,62 @@
 # Hi 👋, I'm Robert Romero
-### Full Stack Developer | Based in Boston, MA 🏙️
 
-I’m a **Full Stack Developerr** with over **4 years of experience** building high-performance, visually engaging web solutions. I specialize in bridging the gap between complex backend logic and intuitive user interfaces.
+### Full Stack & AI-Powered Web Developer | Boston, MA 🏙️
 
-* **📍 Location:** Boston, MA
-* **🚀 Current Focus:** Building scalable SaaS solutions and digital experiences.
-* **💼 Industry Experience:** Real Estate, Healthcare, and Insurance.
+I build high-performance, visually polished web applications and scalable SaaS solutions. My focus is bridging modern full-stack architectures with practical AI integrations to create seamless, automated user experiences.
+
+- 📍 **Location:** Boston, MA
+- 🚀 **Current Focus:** AI-native platforms, real-time architectures, and SaaS products.
+- 💼 **Domain Experience:** High-throughput transactional web apps, interactive simulations, and modern UI/UX systems.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| **Cloud & DB** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) |
-| **Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Vue.js |
+| **Backend** | Node.js, Express, Python, RESTful APIs |
+| **AI & LLM Integration** | Vercel AI SDK, OpenAI API, Gemini API, LangChain, Function Calling |
+| **Database & Cloud** | Supabase, Firebase, PostgreSQL, AWS |
+| **Design & Prototyping** | Figma |
 
 ---
 
-### 📂 Featured Projects
+### 🚀 Featured Projects
 
-#### 🍽️ [Thiscita](https://www.thiscita.com/)
-**Your next appointment, one click away.**
-* **Description:** 
-* **Key Features:**
-* **Tech Stack:** ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+#### 🤖 [holagenio](https://github.com/robertfrontend/holagenio)
+*No-friction AI utility suite designed to simplify daily digital tasks.*
+- **Key Features:** Prompt workflows, modular tool interfaces, and rapid response streaming.
+- **Tech Stack:** JavaScript, Next.js, AI APIs, Tailwind CSS.
 
-#### 🍽️ [MenuDrapp](https://menudr.vercel.app/)
-**Digital Menu Solution for Restaurants**
-* **Description:** An interactive platform that allows restaurants to digitize their menus, enhancing customer experience and streamlining internal management.
-* **Key Features:** Real-time updates, QR code integration, and mobile-first responsive design.
-* **Tech Stack:** ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+#### ✈️ [ATC-Easy-Radar](https://github.com/robertfrontend/ATC-Easy-Radar)
+*High-performance Air Traffic Control simulation with real-time vector math.*
+- **Key Features:** Real-time state simulation, dynamic canvas rendering, and strict TypeScript architecture.
+- **Tech Stack:** React, TypeScript, Tailwind CSS.
 
-#### ⚽ [Laliguita](https://laliguita.vercel.app/) 
-**Sports League Management System**
-* **Description:** A comprehensive tool designed to manage amateur sports leagues, tracking scores, standings, and player statistics in one place.
-* **Key Features:** Dynamic leaderboards, match scheduling, and automated performance tracking.
-* **Tech Stack:** ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+#### 🍽️ [MenuDrapp](https://github.com/robertfrontend/MenuDrapp)
+*Interactive digital menu and catalog ecosystem for food & hospitality.*
+- **Key Features:** QR code dynamic routing, live menu updates, mobile-first responsive architecture.
+- **Tech Stack:** Next.js, Firebase, Tailwind CSS.
+
+#### ⚽ [Laliguita](https://github.com/robertfrontend/Laliguita)
+*Tournament and league operations platform for amateur sports.*
+- **Key Features:** Live scoreboards, automated standings, player analytics, and match scheduling.
+- **Tech Stack:** Next.js, Firebase, Tailwind CSS.
 
 ---
 
-### 📫 Let's Connect!
+### 📈 GitHub Stats & Insights
 
-I’m always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=robertfrontend&show_icons=true&theme=tokyonight&hide_border=true" alt="Robert's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertfrontend&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-* **LinkedIn:** [linkedin.com/in/robertfrontend](https://linkedin.com/in/robertfrontend)
-* **Portfolio:** [robertfrontend.com](https://robertfrontend.com)
-* **Email:** [robert@robertfrontend.com]
+---
 
+### 📫 Connect With Me
+
+- **Portfolio:** [robertfrontend.com](https://www.robertfrontend.com)
+- **LinkedIn:** [linkedin.com/in/robertfrontend](https://www.linkedin.com/in/robertfrontend)
+- **Email:** [robert@robertfrontend.com](mailto:robert@robertfrontend.com)
